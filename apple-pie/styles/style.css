@@ -1,0 +1,32 @@
+* {
+  font-family: cursive;
+}
+.main-image {
+  width: 700px;
+  height: 450px;
+  background-image: url(/apple-pie/images/apple-pie.jpg);
+  background-size: cover;
+}
+
+.inside-image {
+  text-align: center;
+  color: rgba(255, 255, 255, 0.6);
+  font-size: 60px;
+  font-family: sans-serif;
+  padding-top: 180px;
+}
+p {
+  text-align: center;
+  width: 40%;
+  font-family: cursive;
+}
+.Directions {
+  width: 40%;
+}
+img {
+  width: 200px;
+  height: 55px;
+  display: block;
+  margin-right: auto;
+  margin-left: 150px;
+}
