@@ -24,9 +24,10 @@ p {
   width: 40%;
 }
 img {
-  width: 200px;
-  height: 55px;
+    width: 200px;
+    height: 30px;
   display: block;
   margin-right: auto;
   margin-left: 150px;
+  object-fit: cover;
 }
